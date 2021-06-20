@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234090482302",
+    "project_id": "fcmtutorial-19318",
+    "storage_bucket": "fcmtutorial-19318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234090482302:android:b3f1e2629682fa13c6662f",
+        "android_client_info": {
+          "package_name": "yavor.kolev.fcmtutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234090482302-4t7koqcfj2d1rfbrqbvm3jutn0d0p3dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpZpAZI401vmh0Nq8HMGHF3kSQEJcPEeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234090482302-4t7koqcfj2d1rfbrqbvm3jutn0d0p3dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
